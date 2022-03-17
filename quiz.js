@@ -1,0 +1,7 @@
+var quiz = 
+{
+  "answers": [
+
+  ]
+}
+;
